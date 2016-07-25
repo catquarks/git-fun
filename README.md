@@ -1,5 +1,9 @@
+# Git and Github Fun
+
+
 ## What's great about git
-	+ Version Control System: Have different versions of our files
+	+ Version Control System
+	+ Have different versions of our files
   + The Logo For Github is a really cool Octocat
   + Collaborative
  	+ Interact wtih it using cli
