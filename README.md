@@ -1,7 +1,7 @@
 # Git and Github Fun
 
 
-## What's great about git
+## What's great about git?
 	+ Version Control System
 	+ Have different versions of our files
 	+ The Logo For Github is a really cool Octocat
@@ -9,7 +9,7 @@
 	+ Interact wtih it using cli
 	+ Encourages being specific about whaty you're doing
 
-## What's hard
+## What's hard?
 	+ A lot of steps
 	+ Syntax
 	+ Keeping track of local / remote
