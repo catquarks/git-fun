@@ -11,3 +11,7 @@
 	+ Keeping track of local / remote
 	+ Undoing mistakes (but you can delete commits, etc.)
 	+ Different ways to do the same thing
+
+
+
+
